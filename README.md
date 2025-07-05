@@ -5,9 +5,10 @@ Full assembly of project:
 ![Screenshot 2025-07-04 150106](https://github.com/user-attachments/assets/ac5f9362-5914-4a4f-9b65-649e417e18a7)
 
 Photo of wiring schematic:
-![Screenshot 2025-07-04 150531](https://github.com/user-attachments/assets/0c8e6bcc-d152-4926-8082-2cbc9a42f814)
+![Screenshot 2025-07-05 142949](https://github.com/user-attachments/assets/a65a6581-4056-468a-9ef3-64a1b1ef3fbc)
+
 Photo of PCB:
-![Screenshot 2025-07-04 150517](https://github.com/user-attachments/assets/6888a6b7-de29-406d-a888-7ada00180ebe)
+![Screenshot 2025-07-05 142728](https://github.com/user-attachments/assets/8ab6f9b3-f0b4-400c-83d6-271592aa6417)
 
 ## BOM:
 * 6 Cherry MX switches 
